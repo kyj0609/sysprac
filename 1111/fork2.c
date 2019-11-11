@@ -6,6 +6,5 @@ int main(void){
     fork();
     fork();
     fork();
-    fork();
     printf("my pid is %d\n", getpid());
 }
